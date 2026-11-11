@@ -1,0 +1,21 @@
+[
+  "tests/test_api.py::test_cart_and_undo_flow",
+  "tests/test_api.py::test_catalog_pagination_and_validation",
+  "tests/test_api.py::test_product_creation_and_validation",
+  "tests/test_api.py::test_search_and_hash_inspector",
+  "tests/test_api.py::test_system_status",
+  "tests/test_api.py::test_tree_and_traversal_endpoints",
+  "tests/test_module1_catalog.py::test_doubly_linked_list_basic_operations",
+  "tests/test_module1_catalog.py::test_inventory_service_operations",
+  "tests/test_module2_cart.py::test_cart_service_undo_and_flash_sale",
+  "tests/test_module2_cart.py::test_linked_queue_fifo",
+  "tests/test_module2_cart.py::test_linked_stack_lifo",
+  "tests/test_module3_tree.py::test_avl_rotations_and_balance_invariant",
+  "tests/test_module3_tree.py::test_bst_operations_and_traversals",
+  "tests/test_module4_sorting.py::test_product_filters",
+  "tests/test_module4_sorting.py::test_sorting_algorithms",
+  "tests/test_module4_sorting.py::test_sorting_edge_cases",
+  "tests/test_module5_search.py::test_hash_table_operations_and_rehashing",
+  "tests/test_module5_search.py::test_linear_and_binary_search",
+  "tests/test_module5_search.py::test_self_organizing_list_mtf_vs_transpose"
+]

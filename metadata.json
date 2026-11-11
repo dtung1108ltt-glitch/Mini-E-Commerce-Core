@@ -1,0 +1,6 @@
+{
+  "name": "Mini E-Commerce Core Engine",
+  "description": "High-performance Python console e-commerce core engine managing 100,000+ products with custom DSA structures, benchmarks, and academic report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

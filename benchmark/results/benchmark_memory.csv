@@ -1,0 +1,4 @@
+Phase,Current_Memory_MB,Peak_Memory_MB,Nodes_Active
+1. Baseline (Empty),0.0,0.0,0
+"2. After Loading 100,000 Products",23.538,23.538,100000
+3. After Explicit Cleanup & GC,0.0,23.538,0

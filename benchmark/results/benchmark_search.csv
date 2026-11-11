@@ -1,0 +1,25 @@
+Method,Complexity,N,Latency_Nanoseconds,Probes_or_Comparisons
+Linear Search,O(n),1000,37410,750
+Binary Search,O(log n),1000,3471,2
+BST Search,O(log n),1000,4742,Pointers
+Hash Table,O(1),1000,4054,1
+Linear Search,O(n),5000,213351,3750
+Binary Search,O(log n),5000,4512,2
+BST Search,O(log n),5000,6211,Pointers
+Hash Table,O(1),5000,6619,1
+Linear Search,O(n),10000,361636,7500
+Binary Search,O(log n),10000,7488,2
+BST Search,O(log n),10000,10278,Pointers
+Hash Table,O(1),10000,6864,1
+Linear Search,O(n),25000,1051951,18750
+Binary Search,O(log n),25000,8750,2
+BST Search,O(log n),25000,12273,Pointers
+Hash Table,O(1),25000,7411,1
+Linear Search,O(n),50000,2557723,37500
+Binary Search,O(log n),50000,10309,2
+BST Search,O(log n),50000,13083,Pointers
+Hash Table,O(1),50000,7722,1
+Linear Search,O(n),100000,4223493,75000
+Binary Search,O(log n),100000,10052,2
+BST Search,O(log n),100000,14462,Pointers
+Hash Table,O(1),100000,7389,1
